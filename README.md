@@ -6,4 +6,4 @@
 <br>
 <h1> Instagram </h1>
 <b>
-  <a href="https://instagram.com/windfina?igshid=YmMyMTA2M2Y"> Instagram Windfina </a> </b>
+  <a href="https://instagram.com/windfina"> Instagram Windfina </a> </b>
