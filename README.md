@@ -1,7 +1,9 @@
 👋 سلام رفقا 
 <b> لينک هاي مرتبط با ما  </b>
 <h1> Discord </h1>
-(Discord Windfian)[https://discord.gg/UJjekNv8PM]
+<b>
+  <a herf="https://discord.gg/UJjekNv8PM"> Discord Windfina </a> </b>
 <br>
 <h1> Instagram </h1>
-[Instagram Windfian](https://instagram.com/windfina)
+<b>
+  <a herf="https://instagram.com/windfina"> Instagram Windfina </a> </b>
