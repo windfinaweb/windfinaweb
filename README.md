@@ -1,5 +1,4 @@
 👋 سلام رفقا 
-<b> لينک هاي مرتبط با ما  </b>
 <h1> Discord </h1>
 <b>
   <a href="https://discord.gg/UJjekNv8PM"> Discord Windfina </a> </b>
